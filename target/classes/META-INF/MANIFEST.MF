@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-batch
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: biswa
+Implementation-Vendor-Id: com.por
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/spring-batch
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
